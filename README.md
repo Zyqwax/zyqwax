@@ -23,6 +23,6 @@ I'm always learning new things in the world of coding and turning that knowledge
 - Develop and release a significant project from start to finish.
 
 ## 📫 How to Reach Me
-If you're interested in my projects or want to collaborate, feel free to reach out to me at [email@example.com](mailto:email@example.com).
+If you're interested in my projects or want to collaborate, feel free to reach out to me at [enessamed422@gmail.com](mailto:email@example.com).
 
 With a passion for coding, I'm walking confidently into the future, and I'd love to connect with you on this journey!
