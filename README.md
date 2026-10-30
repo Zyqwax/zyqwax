@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Junior%20full-stack%20geli%C5%9Ftiriciyim.%20Web%20ve%20mobil%20tarafta%20React%20ekosisteminde%20uygulamalar%20geli%C5%9Ftiriyorum.;Ege%20%C3%9Cniversitesi%20Bilgisayar%20M%C3%BChendisli%C4%9Fi%20%C3%B6%C4%9Frencisiyim%20(2026%20%E2%80%93%20devam%20ediyor)." alt="Typing headlines" />
 </p>
 
-### 🛠️ Tech Stack
+### 🛠️ Teknik
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
+### 🔗 İletişim
 
 <p align="left">
   <a href="https://instagram.com/gozlu.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -45,7 +45,7 @@
   <a href="mailto:mail@gozlu.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📈 Contribution Graph
+### 📈 Katkılar
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Zyqwax&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
